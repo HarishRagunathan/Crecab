@@ -1,0 +1,355 @@
+@media screen and (max-width:1200px) and (min-width:601px) {
+    
+
+    #image1{
+        width: 70%;
+    }
+    #image2{
+        width: 70%;
+        position: relative;
+        left: 15%;
+        bottom: 150px;
+        border: 15px solid #fff;
+    }
+    .im{
+       width: 90%;
+       left: 2%;
+       top: 5%;
+    } 
+    .location ul{
+        padding: 5% 0 2% ;
+        width: 80%;
+        position: relative;
+        left: 10%;
+    
+    }
+    .recharge ul{
+        padding: 5% 0 2% ;
+        width: 80%;
+        position: relative;
+        left: 10%;
+    
+    }
+    .abpannel{
+        width: 90%;
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto auto;
+        position: relative;
+        left: 5%;
+        margin-top: 7%;
+        margin-bottom: 7%;
+        border-radius: 20px;
+    }
+    .creapers h2{
+        width: 80%;
+        font-size: 50px;
+        position: relative;
+        top: 28%;
+        left: 10%;
+    }
+    .creapers button{
+        width: 40%;
+        font-size: 30px;
+        position: relative;
+        top: 28%;
+        left: 30%;
+        
+    }
+    .logo ion-icon{
+        font-size: 30px;
+        position: relative;
+        width: 50px;
+        left: 40%;
+    }
+
+}
+@media screen  and (max-width:900px) and (min-width:601px) {
+    .carousel-caption h5{
+        font-size: 30px;
+        font-weight: bolder;
+        position: relative;
+        left: 30%;
+        bottom: 130px;
+    }
+    .carousel-caption button{
+        font-size: 20px;
+        font-weight: bold;
+        background-color: #F89F5B;
+        border-radius: 20px;
+        position: relative;
+        left: 30%;
+        bottom: 130px;
+        
+    }
+}
+@media screen and (max-width:1200px) and (min-width:901px) {
+    #image1{
+        width: 55%;
+    }
+    #image2{
+        width: 55%;
+        position: relative;
+        left: 15%;
+        bottom: 150px;
+        border: 15px solid #fff;
+    }
+    .im{
+       width: 84%;
+       left: 23%;
+       top: 8%;
+    } 
+}
+@media screen and (max-width:1200px) and (min-width:901px){
+ 
+   
+    #why{
+        font-size: 35px;
+        margin-bottom: 3%;
+    }
+    #s1{
+        color: #917b9b;
+    }
+    #s2{
+        color: #84509c;
+    }
+    .choose h1{
+        font-size: 35px;
+        margin-bottom: 3%;
+    }
+    #make{
+        font-size: 25px;
+        margin-bottom: 3%;
+    }
+    #make span{
+        font-weight: bolder;
+    }
+    .choose p{
+        font-size: 20px;
+    }
+    .tri h1 , .tri button{
+    
+        position: relative;
+        left: 56%;
+        top: 33%;
+    }
+    .tri h1{
+        color: #fff;
+        font-weight: bolder;
+        font-size: 35px;
+    }
+    .tri button{
+        font-size: 15px;
+        background-color: #F89F5B;
+        color: #fff;
+        border-radius: 210px;
+        margin-top: 6px;
+    }
+    
+    .tri{
+        width: 100%;
+        height: 25vh;
+        background-image: url(image/taxi.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8%;
+    }
+    #veh{
+        
+        position: relative;
+        top: 3%;
+        text-align: center;
+        font-size: 35px;
+        color: #E53F71;
+        margin-bottom: 10%;
+        margin-top: 10%;
+      }
+      .tri button{
+        font-size: 40px;
+        background-color: #F89F5B;
+        color: #fff;
+        border-radius: 20px;
+        margin-top: 20px;
+    }
+    
+    
+    .carousel-caption img{
+        width: 30px;
+        height: 30px;
+        padding-left: 2px;
+    }
+    .carousel-item {
+        height: auto;
+    }
+    .carousel-caption h5{
+        font-size: 40px;
+        font-weight: bolder;
+        position: relative;
+        bottom: 10vh;
+    }
+    .carousel-caption button{
+        font-size: 30px;
+        font-weight: bold;
+        background-color: #F89F5B;
+        border-radius: 20px;
+        margin-top: 20px;
+        position: relative;
+        bottom: 10vh;
+    }
+    .recharge h2{
+        padding: 2% 2% 2% 4%;
+    }
+    .recharge h3{
+        font-weight: bold;
+        position: relative;
+        bottom: 28px;
+        padding-left: 2%;
+    }
+    .recharge p{
+        
+        position: relative;
+        bottom: 28px;
+        padding-left: 2%;
+    }
+    .recharge li{
+        padding: 4% 0 2%;
+    }
+    
+    .location h2{
+        font-size: 30px;
+    }
+    .book{
+        font-size: 25px;
+    }
+    .location li{
+        padding: 4% 0 2%;
+    }
+    
+    .location img{
+        height: auto;
+    }
+    .location h3{
+        font-weight: bold;
+        position: relative;
+        bottom: 28px;
+        padding-left: 2%;
+    }
+    .l{
+        
+        position: relative;
+        bottom: 28px;
+        padding-left: 2%;
+    }
+    #Aboutus{
+        font-size: 30px;
+        margin-bottom: 2%;
+    }
+    #a1{
+        color: #917b9b;
+    }
+    #a2{
+        color: #84509c;
+    }
+    .abpannel{
+        width: 90%;
+        position: relative;
+        left: 5%;
+        display: grid;
+        grid-template-columns: auto ;
+        grid-template-rows: auto auto;
+        margin: 5% 0 5%;
+        border: 0;
+    }
+    .ap{
+        width: 100%;
+    }
+    .ap img{
+       width:  100%;
+       margin: 0; 
+    }
+    .ap h2,.ap h4{
+        width: 90%;
+       text-align: center;
+       justify-content: center;
+       position: relative;
+       top: 0;
+       left: 5%;
+    }
+    
+    .ap h2{
+        font-size: 30px;
+    }
+    .ap h4{
+        font-size: 20px;
+        padding-bottom: 10%;
+    
+    }
+    
+    .about h1{
+        font-size: 35px;
+        
+    color: #fff;
+    font-weight: bolder;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    }
+    .about h2{
+        font-size: 30px;
+    }
+    .about p{
+        font-size: 20px;
+    }
+    
+    .creapers{
+        background-image: url(image/creapers.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 50vh;
+        margin: 5% 0;
+    }
+    
+    .card {
+        border: 0;
+        flex: 0 0 auto;
+        width: 310px; /* Set the width of your cards */
+        margin-right: 20px; /* Adjust spacing between cards */
+      }
+      .card img{
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        position: relative;
+        left: 20px;
+        top: 20px;
+      }
+      .card h2{
+       
+        position: relative; 
+        left: 100px; 
+        bottom: 40px;
+        font-size: 30px; 
+        font-weight: bold;
+      }
+      .card h3{ 
+        position: relative; 
+        left: 100px; 
+        bottom: 40px;
+        font-weight: bold;
+        font-size: 18px; 
+      }
+      .card p{
+        width: 90%;
+        position: relative; 
+        left: 5%; 
+        bottom: 5%;
+        font-size: 12px; 
+        text-align: justify;
+      }
+
+}
+
